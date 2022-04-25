@@ -1,0 +1,18 @@
+{
+  "categories": [
+    "Bread",
+    "Cakes",
+    "Sandwiches"
+  ],
+  "unitsOfMeasurement": [
+    "pieces",
+    "100 g",
+    "500 g",
+    "kg"
+  ],
+  "minProductNameLength": 3,
+  "maxProductNameLength": 30,
+  "manProductDescriptionLength": 1000,
+  "minProductPrice": 1,
+  "maxProductPrice": 999
+}

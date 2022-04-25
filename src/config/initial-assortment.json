@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "productId": 1000000,
+      "name": "Signature Tea Cakes Assortment",
+      "categoryName": "Bread",
+      "description": "Enjoy the satisfying tastes of dense, moist tea cakes bursting with incredible flavor. The chocolate swirl cake blends together decadent chocolate and vanilla cakes, while the lemon vanilla blueberry and apple tea cakes are crafted with real fruit pieces. Finally, the banana pecan loaf cake is topped with a sweet cocoa streusel that perfectly complements the rich cake beneath.",
+      "imageUrl": "https://cdn1.harryanddavid.com/wcsstore/HarryAndDavid/images/catalog/20_33484_30XP_01ex.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "price": 29.99,
+      "unitOfMeasurement": "pieces",
+      "isActive": true
+    },
+    {
+      "productId": 1000001,
+      "name": "Baker's Best Basket",
+      "categoryName": "Bread",
+      "description": "long a warm afternoon breeze. With snickerdoodle cookies and chocolate chunk cookies rounding out this gift, the forecast is decidedly delicious no matter when you share it.",
+      "imageUrl": "https://cdn1.harryanddavid.com/wcsstore/HarryAndDavid/images/catalog/19_32149_30XP_01ex.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "price": 39.99,
+      "unitOfMeasurement": "pieces",
+      "isActive": true
+    },
+    {
+      "productId": 1000002,
+      "name": "Deluxe Chest of Chocolates",
+      "categoryName": "Chocolate",
+      "description": "Surprise your favorite chocolate connoisseur with the ultimate experience—an elegant chest that's filled with the finest chocolate treats. Inside this beautiful chest are dark chocolate bars, luscious truffles, milk chocolate mini mints, dark chocolate-covered Moose Munch® Premium Popcorn, and more. Each of these rich desserts are crafted by chocolatiers in our very own Southern Oregon candy kitchen.",
+      "imageUrl": "https://cdn1.harryanddavid.com/wcsstore/HarryAndDavid/images/catalog/22_34211_30PA_19_003x.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "price": 94.99,
+      "unitOfMeasurement": "pieces",
+      "isActive": true
+    }
+  ]
+}
